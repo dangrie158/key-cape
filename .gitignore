@@ -1,3 +1,13 @@
+# C Build files
+*.lst
+*.o.d
+*.o
+*.hex
+*.eep
+*.map
+*.sym
+*.lss
+
 # Backup files
 *.s#?
 *.b#?
